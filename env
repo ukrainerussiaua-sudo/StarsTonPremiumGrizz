@@ -1,0 +1,19 @@
+# ── Telegram ────────────────────────────
+BOT_TOKEN=8847059097:AAFdyEvq8F2FKov_laf7YmltivcaItUG9aw
+ADMIN_IDS=6044235905
+
+# ── Supabase ─────────────────────────────
+SUPABASE_URL=https://etaqrscklmdmirykxuxd.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV0YXFyc2NrbG1kbWlyeWt4dXhkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4ODU0NzMwMiwiZXhwIjoyMTA0MTIzMzAyfQ.ohlRWE0kQYz3DlV-JW7uIpFCo3BUCz6wb7bymo7jbZo
+
+# ── CryptoBot ────────────────────────────
+CRYPTO_API_TOKEN=ваш_токен_від_CryptoBot_бота
+
+# ── Підтримка ────────────────────────────
+SUPPORT_USERNAME=@xxdob
+
+# ── Ціни (UAH) ───────────────────────────
+UAH_PER_STAR=4.5
+UAH_PER_MONTH_PREMIUM=280
+UAH_PER_TON=200
+UAH_PER_GRAM=140
